@@ -3,6 +3,7 @@ import Campus from './components/Campus/Campus'
 import Hero from './components/hero/hero'
 import Navbar from './components/Navbar/Navbar'
 import Programs from './components/Programs/Programs'
+import ContactUs from './components/Testimonials/ContactUs/ContactUs'
 import Testimonials from './components/Testimonials/Testimonials'
 import Title from './components/Title/Title'
 
@@ -19,6 +20,8 @@ export const App = () => {
         <Campus/> 
         <Title subtitle='TESTIMONIALS' title = 'What Student Say'/>
         <Testimonials/>
+        <Title subtitle='Contact Us' title = 'Get In Touch'/>
+        <ContactUs/>
     </div>
 
     </div>
