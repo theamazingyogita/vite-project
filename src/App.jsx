@@ -2,7 +2,6 @@ import About from './components/About/About'
 import Campus from './components/Campus/Campus'
 import ContactUs from './components/ContactUs/ContactUs'
 import Footer from './components/Footer/Footer'
-import Hero from './components/Hero/Hero'
 import Navbar from './components/Navbar/Navbar'
 import Programs from './components/Programs/Programs'
 import Testimonials from './components/Testimonials/Testimonials'
@@ -12,7 +11,7 @@ export const App = () => {
   return (
     <div>
       <Navbar/>
-      <Hero/>
+    <Hero/>
       <div className='container'>
         <Title subtitle='Our Program' title = 'What We Offer'/>
         <Programs/>
