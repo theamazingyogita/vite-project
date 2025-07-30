@@ -1,17 +1,13 @@
 This project is a **responsive website built using Vite + React** and deployed live on **Vercel**.  
-I followed the tutorial  
-[React JS Project | Build & Deploy Complete Responsive Website in React](https://www.youtube.com/watch?v=WbV3zRgpw_E) by **GreatStack** to create it.  
-
+Made using following this tutorial [React JS Project | Build & Deploy Complete Responsive Website in React](https://www.youtube.com/watch?v=WbV3zRgpw_E) by **GreatStack** to create it.  
 The main learning focus was:
 - Setting up the project using **Vite + React**
 - Managing the project on **GitHub**
 - **Deploying and hosting** the project on **Vercel**
-
+- Learning the Vite Framework
 ---
-
 ## 🚀 Live Demo
 🌍 **Live Website:** [https://great-stack-vite-project.vercel.app/](https://great-stack-vite-project.vercel.app/)  
-
 ---
 <img width="1466" height="830" alt="Screenshot 2025-07-30 at 1 14 58 PM" src="https://github.com/user-attachments/assets/bc94eaa3-1680-43ed-a249-eb1d9d61b886" />
 <img width="1470" height="831" alt="Screenshot 2025-07-30 at 1 15 13 PM" src="https://github.com/user-attachments/assets/0d21d83c-1e9f-4611-9f26-bb6cc43cf60b" />
@@ -19,27 +15,15 @@ The main learning focus was:
 <img width="1466" height="833" alt="Screenshot 2025-07-30 at 1 15 43 PM" src="https://github.com/user-attachments/assets/ce12127d-68b8-46ef-bc68-0a923cc06784" />
 <img width="689" height="819" alt="Screenshot 2025-07-30 at 1 18 03 PM" src="https://github.com/user-attachments/assets/7914589b-08e9-4487-9a28-14c2325c4ed2" />
 
-
-
-
-## 📌 What I Learned
-- Setting up a **Vite + React** project
-- Creating **reusable React components**
-- Making the website **responsive for all devices**
-- Using **GitHub** for version control
-- Deploying the project on **Vercel**
-
 ---
-
 ## 🛠 Tech Stack
 - **Vite**
 - **React**
 - **CSS / Responsive Design**
 - **GitHub**
 - **Vercel**
-
+- **Html**
 ---
-
 ## 📂 Project Setup
 To run this project locally:
 ```bash
