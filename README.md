@@ -1,17 +1,24 @@
-# Vite React Responsive Website
+This project is a **responsive website built using Vite + React** and deployed live on **Vercel**.  
+I followed the tutorial  
+[React JS Project | Build & Deploy Complete Responsive Website in React](https://www.youtube.com/watch?v=WbV3zRgpw_E) by **GreatStack** to create it.  
 
-This is a responsive website built with **Vite + React** by following the tutorial  
-[React JS Project | Build & Deploy Complete Responsive Website in React](https://www.youtube.com/watch?v=WbV3zRgpw_E) by **GreatStack**.  
-The project was deployed on **Vercel** and the code is managed on **GitHub**.
+The main learning focus was:
+- Setting up the project using **Vite + React**
+- Managing the project on **GitHub**
+- **Deploying and hosting** the project on **Vercel**
 
 ---
 
 ## 🚀 Live Demo
-🔗 [View Live Website](https://great-stack-vite-project.vercel.app/)
+🌍 **Live Website:** [https://great-stack-vite-project.vercel.app/](https://great-stack-vite-project.vercel.app/)  
 
----<img width="1470" height="956" alt="Screenshot 2025-07-30 at 1 11 35 PM" src="https://github.com/user-attachments/assets/b38bc911-b7a9-4aca-bd44-e72de8a20cf5" />
-<img width="1470" height="956" alt="Screenshot 2025-07-30 at 1 11 49 PM" src="https://github.com/user-attachments/assets/6ac63c93-0146-4271-98f9-86c6b5be94cd" />
-<img width="1470" height="956" alt="Screenshot 2025-07-30 at 1 11 58 PM" src="https://github.com/user-attachments/assets/7e196e1e-db0b-425b-b74e-cbcd6c61a395" />
+---
+<img width="1466" height="830" alt="Screenshot 2025-07-30 at 1 14 58 PM" src="https://github.com/user-attachments/assets/bc94eaa3-1680-43ed-a249-eb1d9d61b886" />
+<img width="1470" height="831" alt="Screenshot 2025-07-30 at 1 15 13 PM" src="https://github.com/user-attachments/assets/0d21d83c-1e9f-4611-9f26-bb6cc43cf60b" />
+<img width="1467" height="832" alt="Screenshot 2025-07-30 at 1 15 34 PM" src="https://github.com/user-attachments/assets/fbb93e30-1ea6-4904-86fe-1ec9b9493718" />
+<img width="1466" height="833" alt="Screenshot 2025-07-30 at 1 15 43 PM" src="https://github.com/user-attachments/assets/ce12127d-68b8-46ef-bc68-0a923cc06784" />
+<img width="689" height="819" alt="Screenshot 2025-07-30 at 1 18 03 PM" src="https://github.com/user-attachments/assets/7914589b-08e9-4487-9a28-14c2325c4ed2" />
+
 
 
 
