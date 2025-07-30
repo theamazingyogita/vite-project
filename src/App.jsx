@@ -3,9 +3,10 @@ import Campus from './components/Campus/Campus'
 import Hero from './components/hero/hero'
 import Navbar from './components/Navbar/Navbar'
 import Programs from './components/Programs/Programs'
-import ContactUs from './components/Testimonials/ContactUs/ContactUs'
+import ContactUs from './components/ContactUs/ContactUs'
 import Testimonials from './components/Testimonials/Testimonials'
 import Title from './components/Title/Title'
+import Footer from './components/Footer/Footer'
 
 export const App = () => {
   return (
@@ -22,6 +23,7 @@ export const App = () => {
         <Testimonials/>
         <Title subtitle='Contact Us' title = 'Get In Touch'/>
         <ContactUs/>
+        <Footer/>
     </div>
 
     </div>
