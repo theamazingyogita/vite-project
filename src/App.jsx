@@ -1,12 +1,12 @@
 import About from './components/About/About'
 import Campus from './components/Campus/Campus'
+import ContactUs from './components/ContactUs/ContactUs'
+import Footer from './components/Footer/Footer'
 import Hero from './components/hero/hero'
 import Navbar from './components/Navbar/Navbar'
 import Programs from './components/Programs/Programs'
-import ContactUs from './components/ContactUs/ContactUs'
 import Testimonials from './components/Testimonials/Testimonials'
 import Title from './components/Title/Title'
-import Footer from './components/Footer/Footer'
 
 export const App = () => {
   return (
