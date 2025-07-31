@@ -1,11 +1,13 @@
 This project is a **responsive website built using Vite + React** and deployed live on **Vercel**.  
-Made using following this tutorial [React JS Project | Build & Deploy Complete Responsive Website in React](https://www.youtube.com/watch?v=WbV3zRgpw_E) by **GreatStack** to create it.  
+Made using following this tutorial [React JS Project | Build & Deploy Complete Responsive Website in React](https://www.youtube.com/watch?v=WbV3zRgpw_E) by **GreatStack** to create it.  (This is stil a basic page with no video interaction added for now but will add them later so UI is still in progress)
 The main learning focus was:
 - Setting up the project using **Vite + React**
 - Managing the project on **GitHub**
 - **Deploying and hosting** the project on **Vercel**
 - Learning the Vite Framework
 ---
+
+
 ## 🚀 Live Demo
 🌍 **Live Website:** [https://great-stack-vite-project.vercel.app/](https://great-stack-vite-project.vercel.app/)  
 ---
